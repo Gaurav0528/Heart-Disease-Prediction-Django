@@ -1,6 +1,5 @@
 # <a href="https://hdp-django.herokuapp.com" ><img src ="https://i.ibb.co/7WTBrQ9/kisspng-heart-computer-icons-clip-art-5afac5a8e1d416-434932121526384040925.png" width="3%"></a> Heart-Disease-Prediction-Web-App
 
-Live Web-App :- https://hdp-django.herokuapp.com
 <hr>
 HDP is Machine Learning and Deep Learning based Web Application built using Django that can predict heart diseases. 
 
@@ -97,16 +96,3 @@ python manage.py runserver
 https://www.kaggle.com/ronitf/heart-disease-uci
 
 <hr>
-
-## Contributers 
- * [Nidhi Sabu](https://github.com/blurryface-1)
- * [Kanishk Jamgaonkar](https://github.com/kanishk7559)
-
-<hr>
-
-## Development
-
-Want to contribute? Great!
-
-
-
