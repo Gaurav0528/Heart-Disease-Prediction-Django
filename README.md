@@ -67,7 +67,6 @@ HDP uses a number of open source projects to work properly:
 - [Jupyter Notebook](https://jupyter.org/) - open-source, interactive web tool for computation
 - [Django](https://www.djangoproject.com/) - Python Web framework
 - [Bootstrap](https://getbootstrap.com/) - great UI boilerplate for modern web apps
-- [Heroku](https://www.heroku.com/) - Deployment
 
 <hr>
 
